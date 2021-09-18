@@ -1,6 +1,5 @@
 body{
   background-color:  #8a4794;
-  font-family:  'Rubik', sans-serif;
 
 }
 
@@ -61,13 +60,3 @@ body{
     float: none;
   }
 }
-
-#inicio {
-
-  color: white;
-  text-align: center;
-  font-size: 28px;
-  top: 50%;
-  margin-top: 89px;
-}
-
