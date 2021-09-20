@@ -1,0 +1,12 @@
+body{
+  color: white;
+  margin: 20px;
+}
+
+#data-de-nascimento:data{
+  background-color: #8a4794;
+  color: white;
+}
+.titulo{
+  color: #ffff;
+}
