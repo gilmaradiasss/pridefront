@@ -1,12 +1,27 @@
-body{
-  color: white;
-  margin: 20px;
+body {
+  background-repeat: no-repeat;
+  background-image: url( src\assets\IMG\Paciente-Pride.png);
+
 }
 
-#data-de-nascimento:data{
-  background-color: #8a4794;
+section.images {
+
+  margin-left: 995px;
+  margin-bottom: 500em;
+  width: 36px;
+
+}
+
+
+main h1  {
   color: white;
+  margin-left: 20px;
 }
-.titulo{
-  color: #ffff;
+
+main {
+  color: white;
+  margin-left: 20px;
+
+
 }
+
