@@ -1,27 +1,46 @@
-body {
-  background-repeat: no-repeat;
-  background-image: url( src\assets\IMG\Paciente-Pride.png);
+ img {
+    position: absolute;
+    top: 250px;
+    right: 100px;
 
-}
-
-section.images {
-
-  margin-left: 995px;
-  margin-bottom: 500em;
-  width: 36px;
 
 }
 
 
 main h1  {
   color: white;
-  margin-left: 20px;
+  margin-left:200px;
+  margin-top:40px;
+
 }
 
 main {
   color: white;
-  margin-left: 20px;
+  margin-left: 50px;
+
+}
+
+label{
+  width: 24em;
+  margin-left:100px;
+  font-size: 120%;
 
 
 }
+
+input{
+  width: 24em;
+  margin-left:100px
+}
+
+form{
+  position: center;
+}
+input#button{
+  margin-left:240px;
+  margin-top:40px;
+  margin-bottom: 40px;
+}
+
+
 
